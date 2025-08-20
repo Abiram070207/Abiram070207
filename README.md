@@ -8,8 +8,7 @@
 - 💻 Interested in **Machine Learning, Deep Learning & Web Development**
 - 🌱 Currently learning **Node.js, Express & MongoDB**
 - 🤝 Looking for **collaborations on AI + Sustainability projects**
-- 📫 Reach me at: **[your email here]**
-- 🌍 Portfolio: [your portfolio link]
+- 📫 Reach me at: **abiram.r1010@gmail.com**
 
 ---
 
