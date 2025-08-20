@@ -14,7 +14,7 @@
 
 ## 🏢 My Project
 <p align="center">
-  <img src="eco-tracker-logo.png" alt="ECO Tracker Logo" width="400"/>
+  <img src="ecotrackerlogo.png" alt="ECO Tracker Logo" width="400"/>
 </p>
 
 <p align="center">🌱 A sustainability project to track and reduce carbon footprint 💚</p>
