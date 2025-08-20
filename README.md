@@ -71,8 +71,7 @@
 ✨ _“Code. Learn. Innovate. Repeat.”_
 
 <!--
-**Abiram070207/Abiram070207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Abiram070207/Abiram070207** is a ✨ _special_ ✨
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
