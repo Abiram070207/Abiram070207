@@ -12,15 +12,6 @@
 
 ---
 
-## 🏢 My Project
-<p align="center">
-  <img src="ecotrackerlogo.png" alt="ECO Tracker Logo" width="400"/>
-</p>
-
-<p align="center">🌱 A sustainability project to track and reduce carbon footprint 💚</p>
-
----
-
 ## 🚀 Skills & Tools
 <p align="left">
   <!-- Languages -->
