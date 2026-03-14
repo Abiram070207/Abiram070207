@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abiram R</h1>
-<h3 align="center">AI & Data Science Student | Developer | Innovator 🚀</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abiram+R+👋;AI+%26+Data+Science+Student;Machine+Learning+Developer;Building+Cool+AI+Projects+🚀">
+</p>>
 
 ---
 
@@ -42,6 +43,8 @@
   <img src="https://streak-stats.demolab.com?user=Abiram-R&theme=radical" alt="GitHub streak"/>
 </p>
 
+---
+<img src="https://raw.githubusercontent.com/Abiram070207/Abiram070207/output/github-contribution-grid-snake.svg">
 ---
 
 ## 🌐 Connect With Me
