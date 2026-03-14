@@ -1,7 +1,7 @@
 <!-- TYPING INTRO ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Abiram+R+👋;AI+%26+Data+Science+Student;Machine+Learning+Developer;Building+Cool+AI+Projects+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Abiram+R;AI+%26+Data+Science+Student;Machine+Learning+Developer;Building+Cool+AI+Projects+🚀" />
 </p>
 
 ---
