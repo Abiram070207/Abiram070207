@@ -6,7 +6,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Abiram R</h1>
+<h1 align="center">Hi , I'm Abiram R</h1>
 
 <h3 align="center">
 AI & Data Science Student | ML Developer | Innovator 🚀
@@ -18,17 +18,17 @@ AI & Data Science Student | ML Developer | Innovator 🚀
 
 ---
 
-# 🌟 About Me
+#  About Me
 
-- 🎓 AI & Data Science Student  
-- 🤖 Interested in **Machine Learning, Deep Learning & Web Development**  
-- 🌱 Currently learning **Node.js, Express & MongoDB**  
-- 🤝 Looking for **collaborations on AI + Sustainability projects**  
-- 📫 Reach me at **abiram.r1010@gmail.com**
+-  AI & Data Science Student  
+-  Interested in **Machine Learning, Deep Learning & Web Development**  
+-  Currently learning **Node.js, Express & MongoDB**  
+-  Looking for **collaborations on AI + Sustainability projects**  
+-  Reach me at **abiram.r1010@gmail.com**
 
 ---
 
-# 🚀 Skills & Tools
+#  Skills & Tools
 
 <p align="center">
 
@@ -53,7 +53,7 @@ AI & Data Science Student | ML Developer | Innovator 🚀
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <p align="center">
 
@@ -65,7 +65,7 @@ AI & Data Science Student | ML Developer | Innovator 🚀
 
 ---
 
-# 📈 Activity Graph
+#  Activity Graph
 
 <p align="center">
 
@@ -75,7 +75,6 @@ AI & Data Science Student | ML Developer | Innovator 🚀
 
 ---
 
-# 🐍 Contribution Snake
 
 <p align="center">
 <picture>
