@@ -77,10 +77,10 @@ AI & Data Science Student | ML Developer | Innovator 🚀
 
 # 🐍 Contribution Snake
 
+<!-- Contribution Snake -->
+
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Abiram070207/Abiram070207/output/github-contribution-grid-snake.svg"/>
-
+<img src="https://raw.githubusercontent.com/Abiram070207/Abiram070207/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
