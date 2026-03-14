@@ -6,7 +6,6 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Abiram R</h1>
 
 <h3 align="center">
 AI & Data Science Student | ML Developer | Innovator 🚀
