@@ -21,9 +21,9 @@ AI & Data Science Student | ML Developer | Innovator
 #  About Me
 
 -  AI & Data Science Student  
--  Interested in **Machine Learning, Deep Learning & Web Development**  
--  Currently learning **Node.js, Express & MongoDB**  
--  Looking for **collaborations on AI + Sustainability projects**  
+-  Interested in **Machine Learning, Deep Learning & AI **  
+-  Currently learning **Devops & IOS app development**  
+-  Looking for **collaborations on AI & DS & ML**  
 -  Reach me at **abiram.r1010@gmail.com**
 
 ---
