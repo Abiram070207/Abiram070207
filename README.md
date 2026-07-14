@@ -107,6 +107,7 @@ AI & Data Science Student | ML Developer | Innovator
 
 <p align="center">
 
-✨ <i>"Code. Learn. Innovate. Repeat."</i>
+✨ 
+# THINK..BUILD..SCALE..
 
 </p>
